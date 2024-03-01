@@ -1,3 +1,9 @@
+# Ignore VENV
+myRASAChatBot/
+
+# .rasa Cache
+Test/.rasa/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
